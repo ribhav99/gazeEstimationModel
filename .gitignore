@@ -1,3 +1,4 @@
 data/*
 output/*
 models/*
+.ipynb_checkpoints/*
